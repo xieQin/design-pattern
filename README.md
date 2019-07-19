@@ -4,3 +4,5 @@ design pattern in javascript
 ## Factory
 
 ## Singleton
+
+## Observer
