@@ -6,3 +6,5 @@ design pattern in javascript
 ## Singleton
 
 ## Observer
+
+## Publish/Subscribe
