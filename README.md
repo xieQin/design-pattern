@@ -8,3 +8,5 @@ design pattern in javascript
 ## Observer
 
 ## Publish/Subscribe
+
+## Decorator
