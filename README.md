@@ -10,3 +10,11 @@ design pattern in javascript
 ## Publish/Subscribe
 
 ## Decorator
+
+## Proxy
+
+## Facade
+
+## Builder
+
+## Bridge
