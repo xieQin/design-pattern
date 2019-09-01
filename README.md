@@ -1,20 +1,22 @@
 # design-pattern
 design pattern in javascript
 
-## Factory
-
-## Singleton
-
-## Observer
-
-## Publish/Subscribe
-
-## Decorator
-
-## Proxy
-
-## Facade
+## Bridge
 
 ## Builder
 
-## Bridge
+## Command
+
+## Decorator
+
+## Facade
+
+## Factory
+
+## Observer
+
+## Proxy
+
+## Publish/Subscribe
+
+## Singleton
