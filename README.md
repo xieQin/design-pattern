@@ -15,6 +15,8 @@ design pattern in javascript
 
 ## Factory
 
+## Flyweight
+
 ## Observer
 
 ## Proxy
