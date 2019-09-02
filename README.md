@@ -5,6 +5,8 @@ design pattern in javascript
 
 ## Builder
 
+## Chain of Responsibility
+
 ## Command
 
 ## Decorator
